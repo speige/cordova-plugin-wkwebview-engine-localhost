@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/ng-packagr/package.schema.json",
+  "name": "cordova-plugins-wkwebview-engine-localhost",
+  "version": "1.0.0",
+  "description": "Cordova plugin for serving using http://localhost instead of file://",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speige/cordova-plugins-wkwebview-engine-localhost.git"
+  },
+  "keywords": [
+    "cordova",
+    "local",
+    "wkwebview",
+    "localhost",
+    "ios"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/speige/cordova-plugins-wkwebview-engine-localhost"
+}
