@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/ng-packagr/package.schema.json",
   "name": "cordova-plugin-wkwebview-engine-localhost",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova plugin for serving using http://localhost instead of file://",
   "repository": {
     "type": "git",
